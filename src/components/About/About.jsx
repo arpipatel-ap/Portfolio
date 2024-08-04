@@ -19,12 +19,12 @@ const About = () => {
             <p>I am passionate about creating efficient, scalable, and user-centric solutions. I thrive in collaborative environments and am always eager to tackle new challenges and learn new technologies.</p>
           </div>
           <div className="about-skills">
-            <div className="about skill"><p>HTML & CSS</p><hr style={{ width: "50%" }} /></div>
-            <div className="about skill"><p>Javascript</p><hr style={{ width: "90%" }} /></div>
-            <div className="about skill"><p>Node js</p><hr style={{ width: "78%" }} /></div>
-            <div className="about skill"><p>Express</p><hr style={{ width: "80%" }} /></div>
-            <div className="about skill"><p>PostgresSql</p><hr style={{ width: "80%" }} /></div>
-            <div className="about skill"><p>React</p><hr style={{ width: "90%" }} /></div>
+            <div className="about-skill"><p>HTML & CSS</p><hr style={{ width: "50%" }} /></div>
+            <div className="about-skill"><p>Javascript</p><hr style={{ width: "90%" }} /></div>
+            <div className="about-skill"><p>Node js</p><hr style={{ width: "78%" }} /></div>
+            <div className="about-skill"><p>Express</p><hr style={{ width: "80%" }} /></div>
+            <div className="about-skill"><p>PostgresSql</p><hr style={{ width: "80%" }} /></div>
+            <div className="about-skill"><p>React</p><hr style={{ width: "90%" }} /></div>
           </div>
         </div>
       </div>
@@ -38,7 +38,7 @@ const About = () => {
           <h1>20+</h1>
           <p>PROJECTS COMPLETED</p>
         </div>
-        <hr />
+        
        
       </div>
     </div>
