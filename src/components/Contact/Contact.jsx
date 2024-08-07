@@ -4,6 +4,8 @@ import theme_pattern from '../../assets/theme_pattern.svg';
 import mail_icon from '../../assets/mail_icon.svg';
 import location_icon from '../../assets/location_icon.svg';
 import call_icon from '../../assets/call_icon.svg';
+import { FaLinkedinIn } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -28,6 +30,10 @@ const Contact = () => {
             <div className="contact-detail">
               <img src={location_icon} alt="" />
               <p>301, Imperial Rd S, Guelph, ON, Ontario</p>
+            </div>
+            <div className="contact-detail icon">
+            <FaLinkedinIn />
+            <FaGithub />
             </div>
           </div>
         </div>
