@@ -20,7 +20,6 @@ const Navbar = () => {
           {menu === "projects" ? <img src={underline} alt=" " /> : <></>}</li>
         <li><AnchorLink className='anchor-link' offset={50} href='#contact'><p onClick={() => setmenu("contact")}>Contact</p></AnchorLink>{menu === "contact" ? <img src={underline} alt=" " /> : <></>}</li>
       </ul>
-      console.log(running);
       
       <div className="nav-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>connect with me</AnchorLink></div>
     </div>

@@ -6,6 +6,7 @@ import location_icon from '../../assets/location_icon.svg';
 import call_icon from '../../assets/call_icon.svg';
 import { FaLinkedinIn } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 
 
@@ -53,11 +54,15 @@ const Contact = () => {
             </div>
             <div className="contact-detail">
               <img src={location_icon} alt="" />
-              <p>301, Imperial Rd S, Guelph, ON, Ontario</p>
+              <p>Kitchener, Ontario</p>
             </div>
             <div className="contact-detail icon">
-            <FaLinkedinIn />
-            <FaGithub />
+            <a href='https://www.linkedin.com/in/arpipatel-ap/' target='_blank' rel='noopener noreferrer'>
+                <FaLinkedinIn />
+              </a>
+              <a href='https://github.com/arpipatel-ap' target='_blank' rel='noopener noreferrer'>
+                <FaGithub />
+              </a>
             </div>
           </div>
         </div>
