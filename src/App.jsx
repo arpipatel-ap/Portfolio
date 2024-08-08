@@ -6,6 +6,9 @@ import Services from './components/Services/Services';
 import MyWork from './components/MyWork/MyWork';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
+import Timeline from './components/Timeline/Timeline';
+
+
 
 const App = () => {
   return (
@@ -13,11 +16,12 @@ const App = () => {
       <Navbar />
       <Hero />
       <About />
+      <Timeline />
       <Services />
       <MyWork />
       <Contact />
       <Footer />
-
+   
     
     </div>
   )
