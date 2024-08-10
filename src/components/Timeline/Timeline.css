@@ -28,6 +28,7 @@
   justify-content: center;
   gap: 80px;
   margin: 80px 170px;
+  
 } 
 
 /* Title styling */
@@ -48,15 +49,15 @@
 /* Timeline content styling */
 .vertical-timeline-element-content {
   padding: 2em 3em !important;
-  background: #32323C; /* Dark background color */
+  background: #2e2e2e !important;
   border-radius: 10px; /* Rounded corners */
-  color: #323232; 
+  color: white; 
 }
 
 
 /* Date styling */
 .date {
-  color: rgb(201, 251, 255);
+  color: rgb(232, 239, 239);
 }
 
 /* Description styling */
@@ -64,6 +65,7 @@
   margin: 1.5em 0 2em 0;
   font-size: 18px; /* Added font size for consistency */
   font-weight: 500;
+  color:white;
 }
 
 /* Button styling */
