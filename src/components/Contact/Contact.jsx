@@ -56,7 +56,7 @@ const Contact = () => {
               <img src={location_icon} alt="" />
               <p>Kitchener, Ontario</p>
             </div>
-            <div className="contact-detail icon">
+            <div className="contact-detail_icon">
             <a href='https://www.linkedin.com/in/arpipatel-ap/' target='_blank' rel='noopener noreferrer'>
                 <FaLinkedinIn />
               </a>

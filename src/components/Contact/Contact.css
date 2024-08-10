@@ -56,6 +56,17 @@
   align-items: center;
   gap: 20px;
 }
+.contact-detail_icon a {
+  font-size: 26px; 
+  color: #fff; 
+  transition: color 0.3s ease;
+  margin-right: 30px; 
+}
+
+.contact-detail_icon a:hover {
+  color: #464c4f; 
+}
+
 .contact-right{
   display: flex;
   flex-direction: column;
