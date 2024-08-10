@@ -51,8 +51,10 @@
   padding: 2em 3em !important;
   background: #2e2e2e !important;
   border-radius: 10px; /* Rounded corners */
-  color: white; 
+  color: rgb(236, 233, 233); 
 }
+
+
 
 
 /* Date styling */

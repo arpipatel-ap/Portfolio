@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
         <hr />
         <div className="footer-bottom">
-          <p>© 2024 Arpi Patel . All right reserved</p>
+          <p>© 2024 Arpi Patel (Full-Stack Web Developer)</p>
         </div>
       </div>
    
