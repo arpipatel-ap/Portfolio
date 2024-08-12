@@ -7,7 +7,7 @@ const Services_Data = [
     {
         s_no:"02",
         s_name:"Front-End Development",
-        s_desc:"Building responsive and interactive user interfaces using HTML, CSS, JavaScript, and frameworks like React."
+        s_desc:"Building responsive and interactive user interfaces using HTML, CSS, JavaScript, and frameworks like React, Angular, and Vue.js."
     },
     {
         s_no:"03",
