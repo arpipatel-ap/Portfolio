@@ -10,7 +10,7 @@
 .hero h1{
   text-align: center;
   width: 70%;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 600px;
 }
 .hero h1 span{
@@ -22,14 +22,14 @@
 .hero p{
   width: 50%;
   text-align: center;
-  font-size: 24px;
+  font-size: 22px;
   line-height: 40px;
 }
 .hero-action{
   display: flex;
   align-items: center;
   gap: 25px;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 500;
   margin-bottom: 50px;
 }
@@ -46,12 +46,13 @@
   border: 2px solid #fff;
   cursor: pointer;
   
+  
 }
 .hero-resume a {
-  color: #fff; /* Change text color to white */
-  text-decoration: none; /* Remove underline */
-  display: block; /* Make the link fill the button area */
-  font-size: 24px; /* Adjust the font size as needed */
+  color: #fff;
+  text-decoration: none; 
+  display: block;
+  font-size: 22px; 
 }
 .hero-connect:hover{
   border: 2px solid #fff;

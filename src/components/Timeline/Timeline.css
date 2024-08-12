@@ -31,13 +31,12 @@
   
 } 
 
-/* Title styling */
 .title {
   display: flex;
   align-items: center;
   flex-direction: column;
   gap: 35px;
-  font-size: 4em; /* Adjusted to fit better */
+  font-size: 22px; 
   text-align: center;
   font-family: "Bebas Neue", sans-serif;
   background: linear-gradient(264deg, #DF8908 -5.09%, #B415FF 106.28%);
@@ -46,31 +45,23 @@
   -webkit-text-fill-color: transparent;
 }
 
-/* Timeline content styling */
 .vertical-timeline-element-content {
   padding: 2em 3em !important;
   background: #2e2e2e !important;
-  border-radius: 10px; /* Rounded corners */
+  border-radius: 10px; 
   color: rgb(236, 233, 233); 
 }
 
-
-
-
-/* Date styling */
 .date {
   color: rgb(232, 239, 239);
 }
 
-/* Description styling */
 #description {
   margin: 1.5em 0 2em 0;
-  font-size: 18px; /* Added font size for consistency */
+  font-size: 16px; 
   font-weight: 500;
   color:white;
 }
-
-/* Button styling */
 .button {
   text-decoration: none;
   padding: 0.5em 1em;
@@ -78,12 +69,9 @@
   color: white;
   background: linear-gradient(264deg, #DF8908 -5.09%, #B415FF 106.28%);
 }
-
 .button:hover {
   background: linear-gradient(264deg, #B415FF 50.41%, #DF8908 106.28%);
 }
-
-/* Media queries for responsiveness */
 @media only screen and (max-width: 1700px) {
   .vertical-timeline-element-date {
     display: block !important;
