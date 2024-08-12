@@ -14,7 +14,7 @@ let timelineElements = [
     location: "McMaster University , Canada",
     description:
       "Pursued a comprehensive computer programming course covering language such as Python. Developed a strong foundation in software engineering principles, data structures, algorithms, and object-oriented programming. Engaged in practical projects that applied these programming skills in real-world scenarios.",
-    date: "April 2024 - July 2024",
+    date: "January 2024 - April 2024",
     icon: "school",
   },
   {
