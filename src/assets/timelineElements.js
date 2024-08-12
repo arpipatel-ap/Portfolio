@@ -19,7 +19,16 @@ let timelineElements = [
   },
   {
     id: 3,
-    title: "Front-end web deveopler",
+    title: "Full stack Developer(Freelancer Part-time)",
+    location: "Remote",
+    description:
+    "As a Freelance Front-end Web Developer, I designed and implemented responsive and user-friendly web interfaces for various clients. My responsibilities included coding in HTML, CSS, and JavaScript, optimizing website performance, and collaborating closely with clients to meet their requirements. I ensured high-quality, visually appealing designs and provided ongoing support and troubleshooting.",
+    date: "January 2023 - December 2023",
+    icon: "work",
+  },
+  {
+    id: 4,
+    title: "Front-end web Deveopler",
     location: "REQ Solutions Pvt Ltd, Ahmedabad, India",
     description:
       "Worked as a front-end web developer, creating responsive and interactive user interfaces with HTML, CSS, and JavaScript. Utilized frameworks such as React and Bootstrap to build and style web applications. Ensured cross-browser compatibility and optimized performance for a seamless user experience.",
@@ -27,7 +36,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 4,
+    id: 5,
     title: "Front-end web deveopler as Intern",
     location: "REQ Solutions Pvt Ltd, Ahmedabad, India",
     description:
@@ -36,7 +45,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 5,
+    id: 6,
     title: "Junior Java Developer As Intern",
     location: "DIGIMATION TECHNOLOGIES PRIVATE LIMITED, Ahmedabad, India",
     description:
@@ -45,7 +54,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 6,
+    id: 7,
     title: "Master of Science (Computer Application & Information Application) ",
     location: "Hemchandracharya North Gujarat University, India",
     description:
@@ -54,7 +63,7 @@ let timelineElements = [
     icon: "school",
   },
   {
-    id: 7,
+    id: 8,
     title: "Bachelor of Science (Computer Application & Information Application) ",
     location: "Hemchandracharya North Gujarat University, India",
     description:
