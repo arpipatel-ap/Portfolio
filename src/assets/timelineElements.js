@@ -1,12 +1,12 @@
 let timelineElements = [
   {
     id: 1,
-    title: "Full-Stack web deveoplment",
-    location: "Lighthouse Labs, Canada",
+    title: "Full-Stack developer",
+    location: "FYMAB Inc, Canada",
     description:
-      "Completed an intensive online course in full-stack web development. Mastered front-end technologies including HTML, CSS, and JavaScript, Front-end development, Back-end development, Database Management, Datastructures and Algorithms, JavaScript Frameworks, CI/CD, DevOps, Ruby, Ruby on Rails.",
-    date: "April 2024 - July 2024",
-    icon: "school",
+      "At FYMAB Inc., I work as a Full-Stack Developer, utilizing technologies like HTML, CSS, JavaScript, React, and Node.js to build and maintain web applications. I focus on developing both front-end and back-end components, managing databases, and creating efficient API services.",
+    date: "February 2025- Present",
+    icon: "work",
   },
   {
     id: 2,
