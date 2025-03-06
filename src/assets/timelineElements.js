@@ -10,6 +10,15 @@ let timelineElements = [
   },
   {
     id: 2,
+    title: "Full-Stack web deveoplment",
+    location: "Lighthouse Labs, Canada",
+    description:
+      "Completed an intensive online course in full-stack web development. Mastered front-end technologies including HTML, CSS, and JavaScript, Front-end development, Back-end development, Database Management, Datastructures and Algorithms, JavaScript Frameworks, CI/CD, DevOps, Ruby, Ruby on Rails.",
+    date: "April 2024 - July 2024",
+    icon: "school",
+  },
+  {
+    id: 3,
     title: "Computer Programming",
     location: "McMaster University , Canada",
     description:
@@ -18,7 +27,7 @@ let timelineElements = [
     icon: "school",
   },
   {
-    id: 3,
+    id: 4,
     title: "Full stack Developer(Freelancer Part-time)",
     location: "Remote",
     description:
@@ -27,7 +36,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 4,
+    id: 5,
     title: "Front-end web Deveopler",
     location: "REQ Solutions Pvt Ltd, Ahmedabad, India",
     description:
@@ -36,7 +45,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 5,
+    id: 6,
     title: "Front-end web deveopler as Intern",
     location: "REQ Solutions Pvt Ltd, Ahmedabad, India",
     description:
@@ -45,7 +54,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 6,
+    id: 7,
     title: "Junior Java Developer As Intern",
     location: "DIGIMATION TECHNOLOGIES PRIVATE LIMITED, Ahmedabad, India",
     description:
@@ -54,7 +63,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 7,
+    id: 8,
     title: "Master of Science (Computer Application & Information Application) ",
     location: "Hemchandracharya North Gujarat University, India",
     description:
@@ -63,7 +72,7 @@ let timelineElements = [
     icon: "school",
   },
   {
-    id: 8,
+    id: 9,
     title: "Bachelor of Science (Computer Application & Information Application) ",
     location: "Hemchandracharya North Gujarat University, India",
     description:
