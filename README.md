@@ -1,6 +1,6 @@
 # Arpi Patel
 
-Hello! Welcome to my portfolio repository, aka my digital garden 🪴
+Hello! Welcome to my portfolio repository, know about me more
 
 This is a React-Vite app built with React.
 
