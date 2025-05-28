@@ -2,10 +2,10 @@ let timelineElements = [
   {
     id: 1,
     title: "Full-Stack developer",
-    location: "FYMAB Inc, Canada",
+    location: "FYMAB Inc,Mindsherpa.health Canada",
     description:
-      "At FYMAB Inc., I work as a Full-Stack Developer, utilizing technologies like HTML, CSS, JavaScript, React, and Node.js to build and maintain web applications. I focus on developing both front-end and back-end components, managing databases, and creating efficient API services.",
-    date: "February 2025- Present",
+      "At FYMAB Inc., I work as a Full-Stack Developer, utilizing technologies like HTML, CSS, JavaScript, React, and Python to build and maintain web applications. I focus on developing both front-end and back-end components, managing databases, and creating efficient API services.",
+    date: "February 2025- May 2025",
     icon: "work",
   },
   {
